@@ -15,5 +15,5 @@ This repository is a compilation of my work required for the course  *CPE 031 - 
 
 ## Projects
 - README.md
-- **HOA's**
-- **Seatworks**
+- **HOA's** (to follow)
+- **Seatworks** (to follow)
